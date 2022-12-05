@@ -1,0 +1,1 @@
+{"mappings":"AEAA","sources":["index.b09a1967.css","src/sass/index.scss","src/sass/_header.scss"],"sourcesContent":[".text {\n  background-color: #00f;\n}\n\n/*# sourceMappingURL=index.b09a1967.css.map */\n","@import './header';\n",".text {\n  background-color: blue;\n}\n"],"names":[],"version":3,"file":"index.b09a1967.css.map"}
